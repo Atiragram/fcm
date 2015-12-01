@@ -23,5 +23,7 @@ Available options:
 Запуск с помощью sandbox
 
 cabal sandbox init
+
 cabal install --only-dependencies
+
 cabal build
